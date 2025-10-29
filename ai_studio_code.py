@@ -13,7 +13,7 @@ from telegram.ext import (
 
 # --- Configuration ---
 # Get your bot token from @BotFather on Telegram
-TELEGRAM_BOT_TOKEN = "8212174034:AAE4kQkplcNB93XGxmarxbHiErv4m9IjpmY" 
+TELEGRAM_BOT_TOKEN = "Token" 
 # Pollinations AI API URL (using qwen-coder model)
 POLLINATIONS_API_BASE_URL = "https://text.pollinations.ai/"
 
